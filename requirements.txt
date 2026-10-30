@@ -1,0 +1,7 @@
+pydantic-ai
+gradio>=5.9.0
+python-dotenv
+openai
+ddgs
+beautifulsoup4
+httpx
